@@ -1,0 +1,5 @@
+# Project exclude paths
+/hbase/target/
+/redis/target/
+/scala/target/
+/spark/target/
